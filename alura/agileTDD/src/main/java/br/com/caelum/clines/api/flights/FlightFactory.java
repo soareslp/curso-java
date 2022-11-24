@@ -6,6 +6,7 @@ import br.com.caelum.clines.shared.exceptions.AirportNotFoundException;
 import br.com.caelum.clines.shared.exceptions.ViolationException;
 import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Component;
+import lombok.var;
 
 import java.util.ArrayList;
 

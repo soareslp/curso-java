@@ -6,6 +6,7 @@ import java.time.LocalDate;
 
 import static org.hamcrest.MatcherAssert.assertThat;
 import static org.hamcrest.Matchers.equalTo;
+import lombok.var;
 
 class PromotionalCodeFormMapperTest {
     @Test

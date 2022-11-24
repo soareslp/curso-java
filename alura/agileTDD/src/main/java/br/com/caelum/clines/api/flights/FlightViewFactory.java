@@ -4,6 +4,7 @@ import br.com.caelum.clines.api.aircraft.AircraftViewMapper;
 import br.com.caelum.clines.shared.domain.Flight;
 import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Component;
+import lombok.var;
 
 @Component
 @AllArgsConstructor

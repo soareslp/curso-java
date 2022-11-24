@@ -3,6 +3,7 @@ package br.com.caelum.clines.api.aircraftmodels;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
+import lombok.var;
 
 public class AircraftModelFormMapperTest {
     private static final String INPUT_AIRCRAFT_MODEL_DESCRIPTION = "Boeing 836";

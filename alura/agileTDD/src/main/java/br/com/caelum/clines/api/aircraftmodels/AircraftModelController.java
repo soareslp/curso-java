@@ -1,6 +1,7 @@
 package br.com.caelum.clines.api.aircraftmodels;
 
 import lombok.AllArgsConstructor;
+import lombok.var;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 

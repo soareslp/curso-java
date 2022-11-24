@@ -3,6 +3,7 @@ package br.com.caelum.clines.api.airports;
 import br.com.caelum.clines.shared.domain.Location;
 import br.com.caelum.clines.shared.infra.Mapper;
 import org.springframework.stereotype.Component;
+import lombok.var;
 
 @Component
 public class AircraftLocationViewMapper implements Mapper<Location, AircraftLocationView> {

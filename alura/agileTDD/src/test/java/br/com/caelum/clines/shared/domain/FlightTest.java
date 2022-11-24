@@ -9,6 +9,7 @@ import java.time.LocalDateTime;
 import java.time.LocalTime;
 import java.time.Month;
 
+import lombok.var;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 class FlightTest {

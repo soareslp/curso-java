@@ -3,6 +3,7 @@ package br.com.caelum.clines.api.promotionalcodes;
 import br.com.caelum.clines.shared.exceptions.ResourceAlreadyExistsException;
 import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Service;
+import lombok.var;
 
 @Service
 @AllArgsConstructor

@@ -3,6 +3,7 @@ package br.com.caelum.clines.api.aircraftmodels;
 import br.com.caelum.clines.shared.domain.AircraftModel;
 import org.junit.jupiter.api.Test;
 
+import lombok.var;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class AircraftModelViewMapperTest {

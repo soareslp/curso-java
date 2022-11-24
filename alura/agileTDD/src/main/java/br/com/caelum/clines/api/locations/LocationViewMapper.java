@@ -3,6 +3,7 @@ package br.com.caelum.clines.api.locations;
 import br.com.caelum.clines.shared.domain.Location;
 import br.com.caelum.clines.shared.infra.Mapper;
 import org.springframework.stereotype.Component;
+import lombok.var;
 
 @Component
 public class LocationViewMapper implements Mapper<Location, LocationView> {

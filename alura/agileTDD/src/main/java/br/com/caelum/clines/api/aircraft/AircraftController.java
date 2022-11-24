@@ -1,6 +1,8 @@
 package br.com.caelum.clines.api.aircraft;
 
 import lombok.AllArgsConstructor;
+import lombok.var;
+
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;

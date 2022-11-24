@@ -6,7 +6,7 @@ import com.fasterxml.jackson.databind.SerializationFeature;
 import com.fasterxml.jackson.datatype.jsr310.JavaTimeModule;
 import io.restassured.module.mockmvc.RestAssuredMockMvc;
 import org.springframework.http.converter.json.MappingJackson2HttpMessageConverter;
-
+import lombok.var;
 import static org.springframework.test.web.servlet.setup.MockMvcBuilders.standaloneSetup;
 
 public final class MockMvcFactory {

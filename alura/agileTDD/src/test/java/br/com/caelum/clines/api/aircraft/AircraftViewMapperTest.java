@@ -5,6 +5,7 @@ import br.com.caelum.clines.shared.domain.AircraftModel;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
+import lombok.var;
 
 class AircraftViewMapperTest {
     private static final AircraftModel BOEING_836 = new AircraftModel(1L, "Boeing 836");

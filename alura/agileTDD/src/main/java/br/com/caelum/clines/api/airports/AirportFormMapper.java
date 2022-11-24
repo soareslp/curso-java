@@ -3,6 +3,7 @@ package br.com.caelum.clines.api.airports;
 import br.com.caelum.clines.shared.domain.Airport;
 import br.com.caelum.clines.shared.infra.Mapper;
 import org.springframework.stereotype.Component;
+import lombok.var;
 
 import static br.com.caelum.clines.shared.util.StringNormalizer.normalize;
 

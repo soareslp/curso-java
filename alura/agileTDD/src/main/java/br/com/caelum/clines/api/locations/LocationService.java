@@ -5,6 +5,7 @@ import br.com.caelum.clines.shared.exceptions.ResourceAlreadyExistsException;
 import br.com.caelum.clines.shared.exceptions.ResourceNotFoundException;
 import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Service;
+import lombok.var;
 
 import java.util.List;
 import java.util.stream.Collectors;

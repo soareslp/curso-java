@@ -3,6 +3,7 @@ package br.com.caelum.clines.api.locations;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
+import lombok.var;
 
 public class LocationFormMapperTest {
     private static final String INPUT_COUNTRY = "Brazil";

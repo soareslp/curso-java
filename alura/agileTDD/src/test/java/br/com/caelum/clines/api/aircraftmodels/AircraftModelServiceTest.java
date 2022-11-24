@@ -10,6 +10,7 @@ import org.mockito.Spy;
 import org.mockito.junit.jupiter.MockitoExtension;
 
 import java.util.List;
+import lombok.var;
 import java.util.Optional;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;

@@ -7,6 +7,7 @@ import br.com.caelum.clines.shared.domain.Waypoint;
 import org.junit.jupiter.api.Test;
 
 import java.time.LocalDateTime;
+import lombok.var;
 import java.time.Month;
 
 import static org.junit.jupiter.api.Assertions.*;

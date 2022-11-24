@@ -3,6 +3,7 @@ package br.com.caelum.clines.api.aircraftmodels;
 import br.com.caelum.clines.shared.exceptions.ResourceAlreadyExistsException;
 import br.com.caelum.clines.shared.exceptions.ResourceNotFoundException;
 import lombok.AllArgsConstructor;
+import lombok.var;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

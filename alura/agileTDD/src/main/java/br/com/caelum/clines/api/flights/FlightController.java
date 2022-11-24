@@ -5,6 +5,7 @@ import lombok.AllArgsConstructor;
 import org.springframework.format.annotation.DateTimeFormat;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
+import lombok.var;
 
 import javax.validation.Valid;
 import java.net.URI;

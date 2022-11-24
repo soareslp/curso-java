@@ -9,6 +9,7 @@ import org.springframework.test.context.TestPropertySource;
 
 import javax.persistence.EntityManager;
 import javax.transaction.Transactional;
+import lombok.var;
 import java.time.LocalDate;
 
 import static org.hamcrest.MatcherAssert.assertThat;

@@ -4,6 +4,7 @@ import br.com.caelum.clines.shared.domain.Country;
 import br.com.caelum.clines.shared.domain.Location;
 import br.com.caelum.clines.shared.infra.Mapper;
 import org.springframework.stereotype.Component;
+import lombok.var;
 
 @Component
 public class LocationFormMapper implements Mapper<LocationForm, Location> {
