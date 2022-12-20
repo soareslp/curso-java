@@ -3,7 +3,7 @@
 Funcionalidade: Propondo lances ao leilao
 
 Cenario: Propondo um unico lance valido
- Dado um lance valido
+ Dado um lance valido DOIDÃO
  Quando propoe ao leilao
  Entao o lance eh aceito
  
