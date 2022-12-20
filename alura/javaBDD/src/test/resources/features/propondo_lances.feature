@@ -3,7 +3,7 @@
 Funcionalidade: Propondo lances ao leilao
 
 Cenario: Propondo um unico lance valido
- Dado um lance valido DOIDÃO
+ Dado um lance valido
  Quando propoe ao leilao
  Entao o lance eh aceito
  
@@ -21,7 +21,7 @@ Esquema do Cenario: Propondo um lance invalidos
  Exemplos:
  | valor | nomeUsuario |
  |   0   |    fulano   |
- |   -1  |    cigano   |
+ |  -1   |    cigano   |
  
  
 Cenario: Propondo uma sequencia de lances
