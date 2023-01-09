@@ -20,7 +20,7 @@ Esquema do Cenario: Propondo um lance invalidos
  
  Exemplos:
  | valor | nomeUsuario |
- |   0   |    fulano   |
+ |   0   |    fulanos  |
  |  -1   |    cigano   |
  
  
